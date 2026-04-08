@@ -1,0 +1,47 @@
+{
+  "todos": [
+    {
+      "todo": "첫 과제 제출 하기11",
+      "desc": "이거 어떻게 하는거죠!?",
+      "done": true,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "todo": "페이커 숭배하기",
+      "desc": "여러분 숭배할 시간입니다. 진짜 이번 우승 까지는 안바랍니다! ㅎㅎㅎㅎ",
+      "done": false
+    },
+    {
+      "todo": "항상 부서지는 건 나였다~!",
+      "desc": "Vue 부수기",
+      "done": false,
+      "id": "3"
+    },
+    {
+      "todo": "12321dasd1231",
+      "desc": "33",
+      "done": false,
+      "id": "UwgHqdRc7oc"
+    },
+    {
+      "todo": "44",
+      "desc": "44",
+      "done": false,
+      "id": "li_FZoz1fgo"
+    },
+    {
+      "todo": "124455",
+      "desc": "124455",
+      "done": true,
+      "id": "Uz3HLA4l06Y"
+    }
+  ],
+  "users": [
+    {
+      "id": "12",
+      "password": "12"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
